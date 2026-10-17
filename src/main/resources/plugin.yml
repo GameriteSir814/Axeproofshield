@@ -1,0 +1,9 @@
+name: AxeProofShield
+version: 1.0.0
+main: com.axeproofshield.AxeProofShield
+api-version: '1.21'
+description: Marked shields can't be disabled by axes and have custom durability.
+commands:
+  aps:
+    description: Manage axe-proof shields
+    usage: /aps <give|add|remove>
